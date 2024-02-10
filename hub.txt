@@ -1,0 +1,6 @@
+hub B6T2T_noGTF
+shortLabel B6T2T_noGTF
+longLabel B6_T2T_genome_assembly
+genomesFile genomes.txt
+email zh381@cam.ac.uk
+descriptionUrl description.html
